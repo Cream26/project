@@ -9,7 +9,7 @@
 <style scoped>
 .box {
   width: 200px;
-  height: 200px;
+  /* height: 200px; */
   background-color: red;
 }
 h1 {
